@@ -1,0 +1,6 @@
+static int SumRec(int m, int n)
+{
+    if (m >= n) return n;
+    else return n + SumRec(m, n - 1);
+}
+Console.Write(SumRec(3,5));

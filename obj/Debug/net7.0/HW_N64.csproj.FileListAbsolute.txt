@@ -1,0 +1,15 @@
+C:\Users\T430\Desktop\My_C#\HW_N64\obj\Debug\net7.0\HW_N64.csproj.AssemblyReference.cache
+C:\Users\T430\Desktop\My_C#\HW_N64\obj\Debug\net7.0\HW_N64.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\T430\Desktop\My_C#\HW_N64\obj\Debug\net7.0\HW_N64.AssemblyInfoInputs.cache
+C:\Users\T430\Desktop\My_C#\HW_N64\obj\Debug\net7.0\HW_N64.AssemblyInfo.cs
+C:\Users\T430\Desktop\My_C#\HW_N64\obj\Debug\net7.0\HW_N64.csproj.CoreCompileInputs.cache
+C:\Users\T430\Desktop\My_C#\HW_N64\bin\Debug\net7.0\HW_N64.exe
+C:\Users\T430\Desktop\My_C#\HW_N64\bin\Debug\net7.0\HW_N64.deps.json
+C:\Users\T430\Desktop\My_C#\HW_N64\bin\Debug\net7.0\HW_N64.runtimeconfig.json
+C:\Users\T430\Desktop\My_C#\HW_N64\bin\Debug\net7.0\HW_N64.dll
+C:\Users\T430\Desktop\My_C#\HW_N64\bin\Debug\net7.0\HW_N64.pdb
+C:\Users\T430\Desktop\My_C#\HW_N64\obj\Debug\net7.0\HW_N64.dll
+C:\Users\T430\Desktop\My_C#\HW_N64\obj\Debug\net7.0\refint\HW_N64.dll
+C:\Users\T430\Desktop\My_C#\HW_N64\obj\Debug\net7.0\HW_N64.pdb
+C:\Users\T430\Desktop\My_C#\HW_N64\obj\Debug\net7.0\HW_N64.genruntimeconfig.cache
+C:\Users\T430\Desktop\My_C#\HW_N64\obj\Debug\net7.0\ref\HW_N64.dll
